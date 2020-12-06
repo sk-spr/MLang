@@ -71,3 +71,8 @@ Time to Hello World
 Sources:
 
 Kernighan, Brian. "First Steps." The C Programming Language. Prentice Hall Inc, 1988
+
+
+
+# output
+the above program produces the output "HELLO WORLD" when executed
