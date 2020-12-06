@@ -16,9 +16,13 @@ When you use the source in commands, use the last name of the first author (the 
 
 # Commands
 In MLang, commands are passed via in-text statements in brackets. The interpreter ignores everything outside the bracket pairs so you can treat the text itself as optional window-dressing. There are a few basic commands (here, X takes the place of your source):
+
 (X, 21) -- assign the value 21 to the variable X
+
 (see X) -- print the value of X (either as a char or a number, depending on the type)
+
 (Contrast X to Y) -- compare the values of X and Y and store the result in the internal bool T (greater than or equal->true)
+
 (read Chapter N) -- if t is positive, jump to the instruction (Chapter N)
 
 # Hello world
