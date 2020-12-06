@@ -65,7 +65,9 @@ The Debian and Ubuntu Linux distributions provide the "Hello, World!" program th
 Variations of the "Hello, World!" program that produce a graphical output as opposed to text output have also been shown (see Kernighan). Sun demonstrated a "Hello, World!" program in Java based on scalable vector graphics,(Kernighan, 76) and the XL programming language features a spinning Earth "Hello, World!" using 3D computer graphics.(see Kernighan) Mark Guzdial and Elliot Soloway have suggested that the "hello, world" test message may be outdated now that graphics and sound can be manipulated as easily as text.(Kernighan, 68)
 
 Time to Hello World
+
 "Time to hello world" (TTHW) is the time it takes to author a "Hello, World!" program in a given programming language. This is one measure of a programming language's ease-of-use; since the program is meant as an introduction for people unfamiliar with the language, a more complex "Hello, World!" program may indicate that the programming language is less approachable.(see Kernighan) The concept has been extended beyond programming languages to APIs, as a measure of how simple it is for a new developer to get a basic example working; a faster time indicates an easier API for developers to adopt.
 
 Sources:
+
 Kernighan, Brian. "First Steps." The C Programming Language. Prentice Hall Inc, 1988
