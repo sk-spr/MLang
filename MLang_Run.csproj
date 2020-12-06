@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+	  <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <PublishSingleFile>true</PublishSingleFile>
+	  <PublishTrimmed>true</PublishTrimmed>
+  </PropertyGroup>
+
+</Project>
