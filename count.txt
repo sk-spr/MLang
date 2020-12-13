@@ -1,0 +1,14 @@
+(Chapter 1)
+(X, 0)
+(Y, 1)
+(Max, 10)
+(Chapter 2)
+(see X)
+(X + Y, X)
+(Compare X with Max)
+(read Chapter 2)
+
+Sources:
+X, num
+Y, num
+Max, num
